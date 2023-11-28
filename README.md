@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello people of the Universe! <br>I am a Part time student, full time stresser.<br>I do dev work occasionally and you will usually find me <br>helping others! 
+Hello people of the Universe! <br>I am a Full time student, full time stresser, and full time insomniac.<br>I do dev work occasionally and you will usually find me <br>helping others! 
 
 
 ## 🌐 Socials:
