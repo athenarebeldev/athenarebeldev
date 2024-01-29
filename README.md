@@ -33,10 +33,10 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 
 ## My Websites
 ### Portoflio
-<img src='img/blueraccoon.png' width='100'>
-
 > My portfolio website, this has my links and cool projects!
 > [Portfolio Website](https://athenarebel.dev)
+
+<img src='img/blueraccoon.png' width='100'>
 
 ### ATXYZ
 > Open Source coding tutorial project, with built in IDE.
