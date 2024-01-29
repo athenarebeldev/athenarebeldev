@@ -1,8 +1,11 @@
 # 💫 About Me :
 ### Hello people of the Universe! 
 > I am a full time college student, full time stresser, and full time insomniac.
-> I am currently working towards a Bachelors in Cybersecurity!
-> Want to contact me? Send me an email at [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@athenarebel.dev), or join my [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kuAeFkgNDJ).
+> I am currently working towards a Bachelors in Cybersecurity, and am always looking for new ways to imporve my knowledge!
+> Want to contact me? Use one of the methods below.
+
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@athenarebel.dev)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kuAeFkgNDJ).
 
 # ⚙️ Primary Languages I use :
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript)
