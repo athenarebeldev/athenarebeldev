@@ -1,5 +1,5 @@
 # 💫 About Me :
-Hello people of the Universe! <br>I am a Full time student, full time stresser, and full time insomniac.<br>I do dev work occasionally and you will usually find me <br>helping others! 
+- Hello people of the Universe! <br> - I am a Full time student, full time stresser, and full time insomniac.<br> - I do dev work occasionally and you will usually find me <br>helping others! 
 
 # ⚙️ Primary Languages I use :
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript)
