@@ -4,8 +4,8 @@ Hello people of the Universe! <br>I am a Full time student, full time stresser, 
 # ⚙️ Languages I use :
 [![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript)
 [![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=lime&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/about/)
-[![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=blue&logo=reactjs&logoColor=FFFFFF)](https://reactjs.org)
-[![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=red&logo=html&logoColor=FFFFFF)]([https://reactjs.org](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics))
+[![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=blue&logo=reacts&logoColor=FFFFFF)](https://reactjs.org)
+[![HTML]([https://img.shields.io/static/v1?label=&message=HTML&color=red&logo=html&logoColor=FFFFFF](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white))]([https://reactjs.org](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics))
 
 ```JavaScript
 const username = ["AthenaRebel", "AthenaRebel_dev", "Athena"]
