@@ -31,7 +31,12 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AthenaRebel01&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-## Projects
-[![USC](https://imgproxy.fourthwall.com/eqf8VVpFJWn1djOBZwwJYgtK_D9Sgcn9KKdsEOh3-xU/w:175/sm:1/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL2Nkbi5m/b3VydGh3YWxsLmNv/bS9zaG9wcy9zaF9h/OGZhNTIwNy1kOTkx/LTQzODItOTI2ZC0y/MWIwOTFjZTFiMmQv/dGhlbWVzLzRjZjg5/ZmZmLWMyYWEtNGY4/Yy05MzA5LWM3NjA2/NzY3MzkxZi5wbmc.webp)](https://uscweb.net/)
+## My Websites
+### Portoflio
+> My portfolio website, this has my links and cool projects!
+[![AthenaRebelDev](https://old.athenarebel.dev/assets/images/gallery01/b964aa9d_original.jpg?v=48e67f59)](https://athenarebel.dev/)
+### ATXYZ
+> Open Source coding tutorial project, with built in IDE.
 [![ATXYZ](https://imgproxy.fourthwall.com/gVmUbu67Jv_3feXkYsOdzwpSYJ7EmS3SnpCdwafhxVY/w:240/sm:1/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL2Nkbi5m/b3VydGh3YWxsLmNv/bS9zaG9wcy9zaF9j/MjEyYjVmMC00MjE1/LTRmNzYtODU1My03/NDIyZGI5MDE0OTYv/dGhlbWVzLzI0MmIz/ZGUzLWU0YWYtNDQ0/Ni1hYTA2LTAxMzFh/YzM1NTk4MC5wbmc.webp)](https://atxyz.click/)
+
 
