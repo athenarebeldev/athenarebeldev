@@ -36,7 +36,7 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AthenaRebel01&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-## My Websites
+## 🌐 Web Projects
 ### Portoflio
 > My portfolio website, this has my links and cool projects!
 > [Portfolio Website](https://athenarebel.dev)
