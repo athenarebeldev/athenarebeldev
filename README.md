@@ -1,10 +1,25 @@
-# 💫 About Me:
+# 💫 About Me :
 Hello people of the Universe! <br>I am a Full time student, full time stresser, and full time insomniac.<br>I do dev work occasionally and you will usually find me <br>helping others! 
 
+# ⚙️ Languages I use :
+[![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript)
+[![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=lime&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/about/)
+[![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=blue&logo=reactjs&logoColor=FFFFFF)](https://reactjs.org)
+[![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=red&logo=html&logoColor=FFFFFF)]([https://reactjs.org](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics))
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_so_daily_snoopy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AthenaRebel) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Athena_Rebel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AthenaRebel1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AthenaRebel) 
-
+```JavaScript
+const username = ["AthenaRebel", "AthenaRebel_dev", "Athena"]
+const tags = [
+  'JS',
+  'ReactJS',
+  'HTML',
+  'CSS',
+  'C++',
+  'DB',
+]
+const desc = `Just a mediocre developer, lookin to make a name for themself!`
+```
+# ✨ Discord Status :
 [![Discord Presence](https://lanyard.cnrad.dev/api/677621755703197696)](https://discord.com/users/677621755703197696)
 
 # 📊 GitHub Stats:
