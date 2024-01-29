@@ -15,6 +15,7 @@
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ```JavaScript
+console.log("Hello World");
 const username = ["AthenaRebel", "AthenaRebel_dev", "Athena"]
 const tags = [
   'JS',
@@ -59,5 +60,3 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 > If you have a problem with me feel free to click the '❌' and exit the page 💞
 
 Thanks for stopping by 💙
-
-<script src="src/main.js"></script>
