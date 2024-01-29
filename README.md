@@ -1,7 +1,7 @@
 # 💫 About Me :
 ### Hello people of the Universe! 
 > I am a full time college student, full time stresser, and full time insomniac.
-> I am currently working towards a Bachelors in Cybersecurity, and am always looking for new ways to imporve my knowledge!
+> I am currently working towards a Software Engineering and Cybersecurity degree, but I'm always looking for new ways to imporve my knowledge!
 > Want to contact me? Use one of the methods below!
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@athenarebel.dev)
