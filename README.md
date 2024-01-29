@@ -1,5 +1,5 @@
 # 💫 About Me :
-## Hello people of the Universe! 
+### Hello people of the Universe! 
 > I am a Full time student, full time stresser, and full time insomniac.
 
 # ⚙️ Primary Languages I use :
