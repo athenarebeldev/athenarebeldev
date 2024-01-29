@@ -33,10 +33,10 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AthenaRebel01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AthenaRebel01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=AthenaRebel01&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-## 🌐 Web Projects
+## 🌐 Web Projects :
 ### Portoflio
 > My portfolio website, this has my links and cool projects!
 > [Portfolio Website](https://athenarebel.dev)
@@ -49,4 +49,15 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 
 <img src='img/atxyz.png' width='300'>
 
+## ❓ Other Information : 
+> I am a proud lgbt+ dev
+> I am a proud furry, and have a [super cool fursona named Stardust](https://stardustfur.xyz/)
+> I love raccoons
+> I love helping others
+> I am constantly listening to music
+> I have a super cute dog
+> If you have a problem with me feel free to <span id="exitNow" style="cursor: pointer; color: blue; text-decoration: underline;">click here</span>
+
 Thanks for stopping by 💙
+
+<script src="src/main.js"></script>
