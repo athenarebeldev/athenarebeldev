@@ -40,12 +40,14 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 ## 🌐 Web Projects :
 ### Portoflio
 > My portfolio website, this has my links and cool projects!
+> 
 > [Portfolio Website](https://athenarebel.dev)
 
 <img src='img/me.png' width='100'>
 
 ### ATXYZ
 > Open Source coding tutorial project, with built in IDE.
+> 
 > [ATXYZ Website](https://atxyz.click)
 
 <img src='img/atxyz.png' width='300'>
