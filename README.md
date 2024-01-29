@@ -37,6 +37,6 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 > <img src='img/blueraccoon.png' width='100'>
 ### ATXYZ
 > Open Source coding tutorial project, with built in IDE.
-> <img src='img/atxyz.png' width='100'>
+> <img src='img/atxyz.png' width='300'>
 
 
