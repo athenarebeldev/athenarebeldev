@@ -56,7 +56,7 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 > I love helping others
 > I am constantly listening to music
 > I have a super cute dog
-> If you have a problem with me feel free to <span id="exitNow" style="text-decoration: underline;">click here</span>
+> If you have a problem with me feel free to click the '❌' and exit the page 💞
 
 Thanks for stopping by 💙
 
