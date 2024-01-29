@@ -30,7 +30,7 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 # ✨ Discord Status :
 [![Discord Presence](https://lanyard.cnrad.dev/api/677621755703197696)](https://discord.com/users/677621755703197696)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AthenaRebel01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AthenaRebel01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
