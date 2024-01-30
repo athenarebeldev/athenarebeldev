@@ -79,7 +79,5 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 [![BuyMeaCoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/athenarebel_dev)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/athenarebeldev)
 
-
-Thanks for stopping by 💙
-
+### 👥 My Socials :
 ![Discord](https://img.shields.io/discord/870255516893474826?style=for-the-badge&logo=discord) ![Twitch](https://img.shields.io/twitch/status/athena_rebel?style=for-the-badge&logo=twitch&color=%236441A5) 
