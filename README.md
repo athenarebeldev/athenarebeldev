@@ -48,29 +48,29 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 ### Portoflio
 > My portfolio website, this has my links and cool projects!
 > 
-> [Portfolio Website](https://athenarebel.dev) [![WEB_DOWN](https://img.shields.io/website-up-down-green-red/http/monip.org.svg )]
+> [Portfolio Website](https://athenarebel.dev)
 
 <img src='img/me.png' width='100'>
 
 ### ATXYZ
 > Open Source coding tutorial project, with built in IDE.
 > 
-> [ATXYZ Website](https://atxyz.click) [![WEB_DOWN](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg )]
+> [ATXYZ Website](https://atxyz.click)
 
 <img src='img/atxyz.png' width='300'>
 
 ## ❓ Other Information : 
-> I am a proud lgbt+ dev
+> I am a proud lgbt+ dev 🧑‍💻
 > 
-> I am a proud furry, and have a [super cool fursona named Stardust](https://stardustfur.xyz/)
+> I am a proud furry, and have a [super cool fursona named Stardust](https://stardustfur.xyz/) 🐾
 > 
-> I love raccoons
+> I love raccoons 🦝
 > 
-> I love helping others
+> I love helping others 🫂
 > 
-> I am constantly listening to music
+> I am constantly listening to music 📻
 > 
-> I have a super cute dog
+> I have a super cute dog 🐕‍🦺
 > 
 > If you have a problem with me feel free to click the '❌' and exit the page 💞
 
