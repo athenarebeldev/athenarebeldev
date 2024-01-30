@@ -6,7 +6,6 @@
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@athenarebel.dev)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kuAeFkgNDJ)
-![Discord Stats](https://img.shields.io/discord/870255516893474826)
 
 
 # ⚙️ Primary Languages I use :
@@ -82,3 +81,5 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 
 
 Thanks for stopping by 💙
+
+![Discord](https://img.shields.io/discord/870255516893474826?style=for-the-badge&logo=discord)
