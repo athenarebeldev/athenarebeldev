@@ -19,11 +19,17 @@ console.log("Hello World");
 const username = ["AthenaRebel", "AthenaRebel_dev", "Athena"]
 const tags = [
   'JS',
+  'NodeJS',
   'ReactJS',
+  'ExpressJS',
+  'EJS',
+  'jQuery',
   'HTML',
   'CSS',
+  'PHP',
   'C++',
-  'DB',
+  'MongDB',
+  'Heroku',
 ]
 const desc = `Just a mediocre developer, lookin to make a name for themself!`
 ```
@@ -42,14 +48,14 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 ### Portoflio
 > My portfolio website, this has my links and cool projects!
 > 
-> [Portfolio Website](https://athenarebel.dev)
+> [Portfolio Website](https://athenarebel.dev) [![WEB_DOWN](https://img.shields.io/website-up-down-green-red/http/monip.org.svg )]
 
 <img src='img/me.png' width='100'>
 
 ### ATXYZ
 > Open Source coding tutorial project, with built in IDE.
 > 
-> [ATXYZ Website](https://atxyz.click)
+> [ATXYZ Website](https://atxyz.click) [![WEB_DOWN](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg )]
 
 <img src='img/atxyz.png' width='300'>
 
@@ -67,5 +73,10 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 > I have a super cute dog
 > 
 > If you have a problem with me feel free to click the '❌' and exit the page 💞
+
+### 💸 Drop a Donation
+[![BuyMeaCoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]()
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]()
+
 
 Thanks for stopping by 💙
