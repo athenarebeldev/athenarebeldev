@@ -48,7 +48,7 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 ### Portoflio
 > My portfolio website, this has my links and cool projects!
 > 
-> [Portfolio Website](https://athenarebel.dev) [![Website status](https://img.shields.io/website?url=https%3A%2F%athenarebel.dev&style=for-the-badge)](https://athenarebel.dev)
+> [Portfolio Website](https://athenarebel.dev) [![Website status](https://img.shields.io/website?url=https%3A%2F%2Fathenarebel.dev&style=for-the-badge)](https://athenarebel.dev)
 
 <img src='img/me.png' width='100'>
 
