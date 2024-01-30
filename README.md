@@ -27,13 +27,14 @@ const tags = [
 ]
 const desc = `Just a mediocre developer, lookin to make a name for themself!`
 ```
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athenarebeldev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 # ✨ Discord Status :
 [![Discord Presence](https://lanyard.cnrad.dev/api/677621755703197696)](https://discord.com/users/677621755703197696)
 
 # 📊 GitHub Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=athenarebeldev&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athenarebeldev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AthenaRebel01&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
