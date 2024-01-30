@@ -48,14 +48,14 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 ### Portoflio
 > My portfolio website, this has my links and cool projects!
 > 
-> [Portfolio Website](https://athenarebel.dev) [![Website status](https://img.shields.io/website.svg?down_color=red&down_message=down&label=Website%20status&up_color=green&up_message=up&url=https://athenarebel.dev)](https://athenarebel.dev)
+> [Portfolio Website](https://athenarebel.dev) [![Website status](https://img.shields.io/website?url=https%3A%2F%athenarebel.dev&style=for-the-badge)](https://athenarebel.dev)
 
 <img src='img/me.png' width='100'>
 
 ### ATXYZ
 > Open Source coding tutorial project, with built in IDE.
 > 
-> [ATXYZ Website](https://atxyz.click) [![Website status](https://img.shields.io/website?url=http%3A%2F%2Fatxyz.click&style=flat-square)](https://atxyz.click)
+> [ATXYZ Website](https://atxyz.click) [![Website status](https://img.shields.io/website?url=http%3A%2F%2Fatxyz.click&style=for-the-badge)](https://atxyz.click)
 
 <img src='img/atxyz.png' width='300'>
 
