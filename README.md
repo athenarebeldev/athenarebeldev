@@ -82,4 +82,4 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 
 Thanks for stopping by 💙
 
-![Discord](https://img.shields.io/discord/870255516893474826?style=for-the-badge&logo=discord)
+![Discord](https://img.shields.io/discord/870255516893474826?style=for-the-badge&logo=discord) ![Twitch](https://img.shields.io/twitch/status/athena_rebel?style=for-the-badge&logo=twitch&color=%236441A5) 
