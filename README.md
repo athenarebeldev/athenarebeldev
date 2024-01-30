@@ -80,6 +80,6 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/athenarebeldev)
 
 ### 👥 My Socials :
-![Discord](https://img.shields.io/discord/870255516893474826?style=for-the-badge&logo=discord) ![Twitch](https://img.shields.io/twitch/status/athena_rebel?style=for-the-badge&logo=twitch&color=%236441A5) 
+[![Discord](https://img.shields.io/discord/870255516893474826?style=for-the-badge&logo=discord)](https://discord.gg/kuAeFkgNDJ) [![Twitch](https://img.shields.io/twitch/status/athena_rebel?style=for-the-badge&logo=twitch&color=%236441A5)](https://twitch.tv/athena_rebel)
 
 Thanks for stopping by 💙
