@@ -55,7 +55,7 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 ### ATXYZ
 > Open Source coding tutorial project, with built in IDE.
 > 
-> [ATXYZ Website](https://atxyz.click) [![Website status](https://img.shields.io/website-up-down-green-red/https/atxyz.click.svg?label=Website%20status)](https://atxyz.click)
+> [ATXYZ Website](https://atxyz.click) [![Website status](https://img.shields.io/website.svg?down_color=red&down_message=down&label=Website%20status&up_color=green&up_message=up&url=https://atxyz.click)](https://atxyz.click)
 
 <img src='img/atxyz.png' width='300'>
 
