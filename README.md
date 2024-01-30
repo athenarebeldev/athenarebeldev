@@ -75,8 +75,8 @@ const desc = `Just a mediocre developer, lookin to make a name for themself!`
 > If you have a problem with me feel free to click the '❌' and exit the page 💞
 
 ### 💸 Drop a Donation :
-[![BuyMeaCoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]()
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]()
+[![BuyMeaCoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/athenarebel_dev)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/athenarebeldev)
 
 
 Thanks for stopping by 💙
