@@ -1,8 +1,3 @@
-<style>
-  html {
-  background-color: #010101;
-  }
-</style>
 # 💫 About Me :
 ### Hello people of the Universe! 
 > I am a full time college student, full time stresser, and full time insomniac.
